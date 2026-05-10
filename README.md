@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to NovaTeamt
 
-<!--
-**NovaTeamt/NovaTeamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔧 Creator of **TweakNova Professional** - Windows System Optimizer
+- 💻 120+ system tweaks for Windows 10/11
+- 🎯 Focus on performance, privacy and optimization
 
-Here are some ideas to get you started:
+## 📦 My Projects
+- [TweakNova Professional](https://github.com/NovaTeamt/NovaTweaker) - System Optimizer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- GitHub: [@NovaTeamt](https://github.com/NovaTeamt)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NovaTeamt&color=blue)
